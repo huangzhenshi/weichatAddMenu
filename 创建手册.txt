@@ -1,0 +1,1 @@
+jiayouzhan/src/weixin/popular/api/MenuAPI.java  main method to creat menu  for weichat
